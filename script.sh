@@ -1,4 +1,4 @@
-if [ tingimus ]; then
+if [ "$1" -gt 100 ]
 then
-	käsud
+	echo "Arv on suurem kui 100"
 fi

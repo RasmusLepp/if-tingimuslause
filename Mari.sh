@@ -1,6 +1,6 @@
 name="Mari"
 
-if [ "$name" = "Mari" ]
+if [ -n "$name" ]
 then
-	echo "Tere Mari"
+	echo "Nimi on olemas"
 fi

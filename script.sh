@@ -1,4 +1,4 @@
-if [ tingimus ]
+if [ tingimus ]; then
 then
 	käsud
 fi

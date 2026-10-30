@@ -1,6 +1,6 @@
-name="Mari"
+name=""
 
-if [ -n "$name" ]
+if [ -z "$name" ]
 then
-	echo "Nimi on olemas"
+	echo "Nimi puudub"
 fi
